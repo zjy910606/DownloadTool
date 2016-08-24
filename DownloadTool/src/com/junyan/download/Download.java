@@ -15,6 +15,9 @@ import java.net.URL;
 
 public class Download {
 	
+	/**
+	 * The first two string variables are used to test.
+	 */
 	private static String path = "http://xmp.down.sandai.net/kankan/XMPSetup_5.2.1.4768-video.exe";
 	private static String store_path = "E:\\workspace";
 	private static final int THREAD_NUMBER = 3;
